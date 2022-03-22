@@ -1,0 +1,70 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Jiangang Jin (金建钢)
+
+~~~
+{}{img_left}{photos/Jin Jiangang.jpg}{alt text}{120}{160}{}
+*Professor* \n
+[http://naoce.sjtu.edu.cn *School of Naval Architecture, Ocean & Civil Engineering*] \n
+[http://www.sjtu.edu.cn *Shanghai Jiao Tong University*] \n
+\n
+*Address*: A831 Ruth Mulan Building \n
+800 Dongchuan Rd., Shanghai 200240, China \n
+*Email*: jiangang.jin \[at\] sjtu.edu.cn
+~~~
+
+== for Prospective Students/Post-docs
+I'm looking for bright and self-motivated students (both undergraduate and graduate levels) who have a strong interest in *operations research and optimization applied to transportation and logistics systems*.
+Visiting researcher and post-doctoral positions are available as well. If you are interested, please feel free to send me an email along with your CV to arrange an appointment.
+
+== About me
+I am a Professor at School of Naval Architecture, Ocean & Civil Engineering in Shanghai Jiao Tong University (SJTU), Shanghai, China.
+# I received my PhD degree in Civil Engineering (Transportation) from National University of Singapore, and earned a Bachelor degree in Civil Engineering from Tsinghua University.
+My research interests lie in the application of large-scale modeling and optimization to transportation and logistics systems, including maritime shipping & port operations, public transportation system optimization.
+My previous works has been published in international journals, such as Transportation Science, Transportation Research Part A, B, C, E.
+
+
+=== Education
+- Ph.D., 2013, Department of Civil & Environmental Engineering, National University of Singapore, Singapore
+- B.S., 2009, Department of Civil Engineering, Tsinghua University, China
+
+=== Employment
+- Professor, School of Naval Architecture, Ocean & Civil Engineering, Shanghai Jiao Tong Univesity, 2022-present
+- Associate Professor, School of Naval Architecture, Ocean & Civil Engineering, Shanghai Jiao Tong University, 2017-2021
+- Assistant Professor, School of Naval Architecture, Ocean & Civil Engineering, Shanghai Jiao Tong University, 2013-2016
+- Research Engineer, Department of Industrial & Systems Engineering, National University of Singapore, 2012-2013
+- Research Assistant, Future Urban Mobility IRG, Singapore-MIT Alliance  for Research and Technology (SMART), 2012
+
+=== Research Interests
+- Application: Maritime Shipping, Port Operations, Public Transportation, Freight Transportation
+- Theory: Large-scale Optimization, Integer Programming, Network Optimization
+
+=== Editorial Service
+- Area Editor (Transportation), Computers & Industrial Engineering, 2016-present
+- Committee Member, Standing Committee on Ports and Channels of Transportation Research Board, 2015-present
+- Program Committee Member, International Conference of Computational Logistics, 2020-present
+- Program Committee Member, Annual Conference of Computers & Industrial Engineering, 2020
+# - Youth Committee Member, Transportation Research Congress, 2020
+
+=== Honors and Awards
+- Excellent Young Scientists Fund, National Science Foundation of China (NSFC), 2021
+- Yong Talents in Transportation Science and Technology, Ministry of Transportation of China, 2020
+- Rising-Star Program, Shanghai Science and Technology Commission, 2017
+- Chenguang Program, Shanghai Education Commission, 2015
+- First Prize Award, INFORMS Railway Application Section (RAS) Problem Solving Competition, 2013
+- President Graduate Fellowship, National University of Singapore, 2012
+- Honorable Mention Award, INFORMS Railway Application Section (RAS) Problem Solving Competition, 2011
+
+=== Selected Publications
+*Maritime Shipping & Port Operations*
+- *Jin, J.G.*, Meng, Q.\*, Wang, H., 2021. Feeder Vessel Routing and Transshipment Coordination at a Congested Hub Port. /Transportation Research Part B: Methodological/ 151, 1-21. \[[https://www.sciencedirect.com/science/article/pii/S019126152100134X link]\]
+- *Jin, J.G.*, Lee, D.-H., Cao, J.X., 2016. Storage Yard Management in Maritime Container Terminals. /Transportation Science/ 50(4), 1300-1313. \[[https://pubsonline.informs.org/doi/abs/10.1287/trsc.2014.0527 link]\]
+- *Jin, J.G.*\*, Lee, D.-H., Hu, H., 2015. Tactical Berth and Yard Template Design at Container Transshipment Terminals: A Column Generation based Approach. /Transportation Research Part E: Logistics and Transportation Review/ 73, 168-184. \[[https://www.sciencedirect.com/science/article/pii/S1366554514002063 link]\]
+- Jiang, X.J.\*, *Jin, J.G.*, 2017. A branch-and-price method for integrated yard crane deployment and container allocation in transshipment yards. /Transportation Research Part B: Methodological/ 98, 62-75. \[[https://www.sciencedirect.com/science/article/pii/S019126151630501X link]\]
+- Lee, D.-H.\*, *Jin, J.G.*, 2013. Feeder Vessel Management at Container Transshipment Terminals. /Transportation Research Part E: Logistics and Transportation Review/ 49(1), 201-216. \[[https://www.sciencedirect.com/science/article/pii/S1366554512000816 link]\]
+
+*Urban Transportation Network Optimization*
+- *Jin, J.G.*, Teo, K.M., Odoni, A., 2016. Optimizing Bus Bridging Services in Response to Disruptions of Urban Transit Rail Networks. /Transportation Science/ 50(3), 790-804. \[[https://pubsonline.informs.org/doi/abs/10.1287/trsc.2014.0577 link]\]
+- *Jin, J.G.*, Lu, L.\*, Sun, L., Yin, J., 2015. Optimal Allocation of Protective Resources in Urban Rail Transit Networks against Intentional Attacks. /Transportation Research Part E: Logistics and Transportation Review/ 84, 73-87. \[[https://www.sciencedirect.com/science/article/pii/S1366554515002008 link]\]
+- *Jin, J.G.*\*, Tang, L.C., Sun, L., Lee, D.-H., 2014. Enhancing Metro Network Resilience via Localized Integration with Bus Services. /Transportation Research Part E: Logistics and Transportation Review/ 63, 17-30. \[[https://www.sciencedirect.com/science/article/pii/S1366554514000039 link]\]
+- *Jin, J.G.*, Zhao, J., Lee, D.-H.\*, 2013. A Column Generation based Approach for the Train Network Design Optimization Problem. /Transportation Research Part E: Logistics and Transportation Review/ 50, 1-17. \[[https://www.sciencedirect.com/science/article/pii/S1366554512000944 link]\]
+- Sun, L., *Jin, J.G.*, Lee, D.-H.\*, Erath, A., 2014. Demand-Driven Timetable Design for Metro Services. /Transportation Research Part C: Emerging Technologies/ 46, 284-299. \[[https://www.sciencedirect.com/science/article/pii/S0968090X1400182X link]\]
