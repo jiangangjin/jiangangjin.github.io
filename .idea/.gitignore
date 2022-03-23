@@ -1,3 +1,5 @@
 # Default ignored files
+*.jemdoc
+*.py
 /shelf/
 /workspace.xml
