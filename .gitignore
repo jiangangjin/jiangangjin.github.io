@@ -1,4 +1,6 @@
 # Default ignored files
+MENU
+/css/
 *.jemdoc
 *.py
 /shelf/
